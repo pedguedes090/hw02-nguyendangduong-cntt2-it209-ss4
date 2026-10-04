@@ -4,6 +4,8 @@
 **Lớp:** CNTT2
 **Môn học:** IT209 — Session 04
 
+Merge conflict target: initial README line.
+
 ## Quy trình
 
 1. Tạo commit ban đầu trên `main` với README có một dòng giới thiệu.
