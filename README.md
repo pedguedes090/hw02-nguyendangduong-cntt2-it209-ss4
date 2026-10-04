@@ -4,7 +4,7 @@
 **Lớp:** CNTT2
 **Môn học:** IT209 — Session 04
 
-Merge conflict target: main version.
+Merge conflict target: main and feature-update changes resolved together.
 
 ## Quy trình
 
@@ -12,7 +12,7 @@ Merge conflict target: main version.
 2. Tạo nhánh `feature-update`, sửa dòng giới thiệu rồi commit.
 3. Quay lại `main`, sửa chính dòng đó theo nội dung khác rồi commit.
 4. Chạy `git merge feature-update`. Git báo conflict ở README vì hai nhánh thay đổi cùng một vùng.
-5. Mở README, tự chọn nội dung cuối cùng và xóa các dấu `<<<<<<<`, `=======`, `>>>>>>>`.
+5. Mở README, tự chọn nội dung cuối cùng và xóa ba dòng dấu phân cách do Git chèn.
 6. Chạy `git add README.md` và `git commit` để hoàn thành merge commit.
 
 ## Lệnh tham khảo
