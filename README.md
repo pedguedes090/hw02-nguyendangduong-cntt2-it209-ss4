@@ -4,7 +4,7 @@
 **Lớp:** CNTT2
 **Môn học:** IT209 — Session 04
 
-Merge conflict target: initial README line.
+Merge conflict target: main version.
 
 ## Quy trình
 
